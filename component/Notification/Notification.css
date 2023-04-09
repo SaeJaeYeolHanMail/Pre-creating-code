@@ -1,0 +1,14 @@
+.title{
+    width: full;
+    height: 50px;
+    background: linear-gradient(90deg, #367af5, #1eb5f7);;
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius:12px 12px 0px 0px;
+}
+.title_text{
+    color: white;
+    font-size: 14px;
+}

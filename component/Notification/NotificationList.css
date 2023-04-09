@@ -1,0 +1,21 @@
+.listcontent{
+ display: flex;
+ align-items: center;
+}
+
+.listitem{
+    cursor: pointer;
+}
+
+.day{
+    margin-right: 30px;
+}
+
+.notificationtitle{
+    color: #367af5;
+    font-weight: 800;
+}
+
+p{
+    margin: 0px;
+}
